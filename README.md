@@ -12,5 +12,4 @@ Java 23 (JDK 23)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3Schools - Java Strings](https://www.w3schools.com/java/java_strings.asp)
